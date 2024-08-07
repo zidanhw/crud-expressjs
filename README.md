@@ -1,2 +1,2 @@
 # crud-expressjs
-CRUD web application using Express.js and MongoDB
+CRUD web application project using Express.js and MongoDB from Codepolitan
