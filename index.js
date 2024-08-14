@@ -28,7 +28,7 @@ function wrapAsync(fn) {
 }
 
 app.get('/', (req,res) => {
-    res.send('hello world!');
+    res.send('CRUD Project Using Express.js and Mongodb');
 })
 
 app.get('/products', wrapAsync(async (req,res) => {
